@@ -5,28 +5,28 @@
 <body>
     <h1>Registration Page</h1>
     <form>
-        <label>Name:</label>
+        <label>Name:&nbsp;&nbsp;</label>
         <input type="text" /> <br /><br />
-        <label>Email:</label>
-        <input type="email" /> <br /><br />
+        <label>Email:&nbsp;&nbsp;</label>
+        <input type="email" /> <br /> <br />
         <label>Mobile:</label>
-        <input type="number" /> <br /><br />
-        <label>DOB:</label>
-        <input type="date" /> <br /><br />
+        <input type="number" /> <br /> <br />
+        <label>DOB:&nbsp;&nbsp;&nbsp;</label>
+        <input type="date" /> <br /> <br />
         <label>Gender</label>
         <input type="radio" /> Male
-        <input type="radio" /> Female <br />
-        <label>Address</label>
-        <textarea cols="30" rows="5"></textarea> <br />
-        <label>Location</label>
+        <input type="radio" /> Female <br /> <br />
+        <label>Address:</label>
+        <textarea cols="30" rows="5"></textarea> <br /> <br />
+        <label>Location:</label>
         <input type="checkbox" />Chennai
         <input type="checkbox" />Bangalore
         <input type="checkbox" />Trivendra
         <input type="checkbox" />Kochi
         <br /><br />
-        <label>State</label>
+        <label>State:&nbsp;&nbsp;&nbsp;</label>
         <select>
-            <option>Pls select State</option>
+            <option>Please select State</option>
             <option>MP</option>
             <option>UP</option>
             <option>TN</option>
